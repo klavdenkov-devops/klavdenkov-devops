@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Setting up CI/CD pipelines with Jenkins and GitLab CI, automating deployments with Docker and Kubernetes.**
-- 💬 Ask me about: ** Docker, Kubernetes, CI/CD, Jenkins, Git, Terraform, YandexCloud, and Monitoring Tools.**
+- 💼 I'm currently working on: **Setting up CI/CD pipelines with Jenkins and GitLab CI, automating deployments with Docker and Kubernetes.**
+- 💬 Ask me about: **Docker, Kubernetes, CI/CD, Jenkins, Git, Terraform, YandexCloud, and Monitoring Tools.**
 
  **<h3 align="left">Skills</h3>**
 
