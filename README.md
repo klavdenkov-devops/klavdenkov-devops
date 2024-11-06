@@ -1,4 +1,6 @@
-<div id="toc"> <ul align="center" style="list-style: none"> <summary> <h1> 👋 Hi, my name is Daniil Klavdenkov </h1> </summary> </ul> </div>
+![👋 Hi, my name is Daniil Klavdenkov](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=klavdenkov-devops&label=Profile%20views&color=0e75b6&style=flat)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://github.com/klavdenkov-devops" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 18px"></a> <a href="https://www.linkedin.com/in/klavdenkov-devops" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 18px"></a> <a href="klavdenkov-devops@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 18px"></a></p>
